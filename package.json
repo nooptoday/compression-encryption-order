@@ -1,0 +1,11 @@
+{
+  "name": "compression-encryption-order",
+  "version": "1.0.0",
+  "description": "A small example repository to compare payload sizes using encryption and compression together but in different orders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nooptoday",
+  "license": "ISC"
+}
